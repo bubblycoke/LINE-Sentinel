@@ -1,2 +1,2 @@
 # LINE-Sentinel
-Maintain the customized policies inside the LINE chat group
+LINE Bot who implements the customized policies inside the LINE chat group.
